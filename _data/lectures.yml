@@ -40,9 +40,9 @@
     - Jurafsky & Martin Chapter 6
     - Distributed Representation of Words and Phrases and their Compositionality (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1310.4546.pdf" target="_blank">[link]</a>
   optional:
-  logistics: HW1 out
+  logistics: HW 1 out
 
-- date: Thu 01/29/26
+- date: Tue 01/27/26
   lecturer:
   title:
     - N-Gram Language Models
@@ -53,7 +53,7 @@
   optional:
   logistics:
 
-- date: Fri 01/30/26
+- date: Thu 01/29/26
   lecturer:
     - Arman
   title:
@@ -178,7 +178,7 @@
     - "Guest Lecture 1: TBD"
   readings:
   optional:
-  logistics: HW 2 due
+  logistics:
 
 - date: Thu 03/05/26
   lecturer:
@@ -193,7 +193,7 @@
     - Are Emergent Abilities of Large Language Models a Mirage? (Sha et al., 2023) <a href="https://arxiv.org/pdf/2304.15004.pdf" target="_blank">[link]</a>
     - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>
   optional:
-  logistics: HW2 due on 03/05 <br/><br/> Project proposals due 03/07;
+  logistics: HW 2 due <br/><br/> Project proposals due 03/06
 
 - date: 03/06/26 - 03/22/26
   title: >
