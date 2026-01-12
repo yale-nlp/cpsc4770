@@ -25,6 +25,7 @@
     float: left;
     height: 310px;
     padding-right: 1pt;
+    margin-bottom: 30px;  /* Add this line */
 
     @media screen and (min-width: 676px) {
         height: 140px;
