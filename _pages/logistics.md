@@ -29,6 +29,25 @@ This course requires:
 Although we review these concepts, students without prior ML/AI coursework should first take an introductory ML or AI course before enrolling. The course material builds heavily on these concepts from day one, and there will not be time to cover these basics in detail.
 If unsure about prerequisites, please consult the instructor before enrolling.
 
+
+### FAQ
+> ##### **Q: Can I take this course?**
+>
+> ##### You should have taken one of the above courses. If you have not, please consult the instructor before enrolling.
+>
+> ##### This course requires: 
+>    - ##### Strong programming skills in Python and basic prior exposure to libraries such as numpy, PyTorch, or TensorFlow
+>    - ##### Familiarity with basic concepts in probability and statistics, and linear algebra
+>    - ##### Prior exposure to foundational machine learning concepts through courses like CPSC 381/581 (Intro to Machine Learning) or CPSC 370/570 (Artificial Intelligence)
+>
+> ##### **Q: I have equivalent experience but haven't taken the prereq courses. Can I enroll?**
+>
+> ##### Please contact the instructor with: Relevant coursework/grades and your programming experience (including ML projects) and math background
+>
+> ##### **Q: I may miss several lectures. Can I still take the course?**
+>
+> ##### Regular attendance is mandatory, and we do not guarantee lecture recordings. Missing more than a few classes significantly impacts learning outcomes and participation grade. If you anticipate scheduling conflicts, consider taking the course in a future semester.
+
 ### Learning Resources
 
 #### Textbook
