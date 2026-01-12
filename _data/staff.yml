@@ -20,8 +20,8 @@ TAs:
     url: 
     office-hours: Wed 3:30-5pm
     location: 17 Hillhouse 3rd Floor
-    image: 
-    bio: 
+    image: staff/austin.jpg
+    bio: Multimodal foundation models, Distributed pretraining optimizers, Reasoning
   - name: Aakash Patel
     email: aakash.patel.ap2853@yale.edu
     url: 
@@ -46,9 +46,9 @@ TAs:
   - name: Yilun Zhao
     email: yilun.zhao@yale.edu
     url: https://yilunzhao.github.io/
-    office-hours: 
+    office-hours: Thu 5-6:30pm
     location: 17 Hillhouse 3rd Floor
     image: staff/yilun.jpg
-    bio: 
+    bio: AI4Research, Knowledge-intensive reasoning, (Multimodal) Foundation models for specialized domains
 
 
