@@ -52,14 +52,14 @@
       </li>
       <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email
           }}</a></li>
-      {% if instructor.bio %}
-      <li><span>Research Interests:</span> {{ instructor.bio }}</li>
-      {% endif %}
       {% if instructor.office-hours %}
       <li><span>Office hours:</span> {{ instructor.office-hours }}</li>
       {% endif %}
       {% if instructor.location %}
       <li><span>Location:</span> {{ instructor.location }} </li>
+      {% endif %}
+      {% if instructor.bio %}
+      <li><span>Research Interests:</span> {{ instructor.bio }}</li>
       {% endif %}
       <!-- <li><span>Zoom:</span> <a href="{{ instructor.zoom }}" target="_blank">Link</a></li> -->
     </ul>
