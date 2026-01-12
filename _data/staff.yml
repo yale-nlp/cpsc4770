@@ -28,7 +28,7 @@ TAs:
     office-hours: Mon 4-5:30pm
     location: 17 Hillhouse, 3rd Floor
     image: staff/aakash.jpeg
-    bio: I am a 2nd year PhD student in Computer Science at Yale working on biomedical foundation models, with an emphasis on applying LLMs to genomic and neuroimaging data. My research focuses on interpretable and multimodal models for single-cell genomics, spatial transcriptomics, fMRI, and virtual screening and drug discovery.
+    bio: Biomedical foundation models (applying LLMs to genomic and neuroimaging data), Interpretable and multimodal models for single-cell genomics, spatial transcriptomics, fMRI, and virtual screening & drug discovery
   - name: Rohan Phanse
     email: rohan.phanse@yale.edu
     url: 

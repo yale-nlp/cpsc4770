@@ -25,12 +25,12 @@
     float: left;
     height: 310px;
     padding-right: 1pt;
-    margin-bottom: 100px;  /* Add this line */
+    margin-bottom: 70px;  /* Add this line */
 
     @media screen and (min-width: 676px) {
         height: 140px;
         padding-right: 0pt;
-        margin-bottom: 100px;
+        // margin-bottom: 20px;
     }
 
     img {
