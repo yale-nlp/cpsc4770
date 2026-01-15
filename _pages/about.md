@@ -31,7 +31,7 @@ We will also using papers from major conferences in the field including ACL, EMN
 ***
 
 - **Lectures:** Tue/Thur 2:30PM - 3:45PM
-- **Lecture Location:**  [TBD](https://map.yale.edu/?id=1910#!m/563685)
+- **Lecture Location:**  [SSS 114 - Sheffield-Sterling-Strathcona 114]([https://map.yale.edu/?id=1910#!m/563685](https://maps.app.goo.gl/s5ZEd8y8PMx2JDit7))
 - **Office Hours Location:** [17HH #326](https://maps.app.goo.gl/uySqex4xtLZH2KAK9){:target="\_blank"} 
 - **Discussion:** [Ed Discussions](https://edstem.org/us/courses/70268/){:target="\_blank"}
 
