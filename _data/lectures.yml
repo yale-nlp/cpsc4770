@@ -17,6 +17,7 @@
     - Jurafsky & Martin Chapter 6
   optional:
   logistics:
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQANiX7iVr2qQ4H2m_LrhSb-Af-uWjc7bGut2Tq7IjxxwjI?e=yMGU2X
 
 - date: Tue 01/20/26
   lecturer:
@@ -31,6 +32,7 @@
     - Efficient Estimation of Word Representations in Vector Space (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1301.3781.pdf" target="_blank">[link]</a>
     - Word2vec Explained- deriving Mikolov et al.'s negative-sampling word-embedding method (Goldberg and Levy, 2014) <a href="https://arxiv.org/pdf/1402.3722.pdf" target="_blank">[link]</a>
   logistics:
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQAQ_f1REEz3Q7l9n4s41CgtAUGBv4O-TESG6fLHKw3Z0vU?e=TYziq6
 
 - date: Thu 01/22/26
   lecturer:
