@@ -182,15 +182,6 @@
 
 - date: Tue 03/03/26
   title:
-    - "Guest Lecture 1: TBD"
-  readings:
-  optional:
-  logistics: HW 2 due 
-
-- date: Thu 03/05/26
-  lecturer:
-    - Arman
-  title:
     - Post-training
     - Supervised Finetuning
     - Instruction Following
@@ -199,6 +190,19 @@
     - Scaling Instruction-Finetuned Language Models (Chung et al., 2022) <a href="https://arxiv.org/abs/2210.11416" target="_blank">[link]</a>
     - Are Emergent Abilities of Large Language Models a Mirage? (Sha et al., 2023) <a href="https://arxiv.org/pdf/2304.15004.pdf" target="_blank">[link]</a>
     - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>
+  optional:
+  logistics: HW 2 due 
+
+- date: Thu 03/05/26
+  guest:
+    - name: Shannon Zeijiang Shen
+      profile: hhttps://www.szj.io/
+      photo: https://www.szj.io/assets/me.png
+      affil: MIT
+  lecturer:
+    - Arman
+  title:
+    - TBD
   optional:
   logistics: Project proposals due 03/06
 
