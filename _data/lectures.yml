@@ -88,13 +88,17 @@
   lecturer:
     - Arman
   title:
-    - CNNs (contd.)
     - RNNs
     - Task specific neural network architectures
+    - Training RNNs    
     - Machine translation
+    - Attention
   readings:
     - Understanding LSTM Networks (Christopher Olah) <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">[link]</a>
-    - Eisenstein, Chapter 18
+    - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
+    - Learning to Align and Translate with Attention (Bahdanau et al., 2015) <a href="https://arxiv.org/pdf/1409.0473.pdf" target="_blank">[link]</a>
+    - Statistical Machine Translation (Koehn) <a href="https://www.statmt.org/book/" target="_blank">[link]</a>    
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQCyCtKmlPhSQrAIXbXDd6zDAc4fcEboM07vslIQCkmzRkc?e=SBWzBO
   optional:
     - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
   logistics:
@@ -102,16 +106,11 @@
 - date: Tue 02/10/26
   lecturer:
   title:
-    - RNNs (contd.)
-    - Training sequence models
-    - Machine translation (contd.)
+    - Transformers
   readings:
-    - Statistical Machine Translation (Koehn) <a href="https://www.statmt.org/book/" target="_blank">[link]</a>
-    - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
-    - Learning to Align and Translate with Attention (Bahdanau et al., 2015) <a href="https://arxiv.org/pdf/1409.0473.pdf" target="_blank">[link]</a>
     - Luong et al. (2015) Effective Approaches to Attention-based Neural Machine Translation <a href="https://arxiv.org/pdf/1508.04025.pdf" target="_blank">[link]</a>
     - Attention is All You Need (Vaswani et al., 2017) <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank">[link]</a>
-    - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
+    - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>  
   logistics: Project teams due on 02/08 <br/><br/> HW1 due
 
 - date: Thu 02/12/26
