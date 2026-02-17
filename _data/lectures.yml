@@ -133,8 +133,9 @@
   lecturer:
     - Arman
   title:
-    - Transformers (contd.)
+    - Tokenization
     - Language modeling with Transformers
+    - Early language models
     - Transfer Learning
   readings:
     - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
@@ -143,6 +144,7 @@
     - GPT-2 (Radford et al., 2019) <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">[link]</a>
   optional:
   logistics:
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQC2cEotXm3wQIZSuh9QSuA6AUCugpuDmLLOtBoiD6S_-30?e=CyCNHg
 
 - date: Thu 02/19/26
   lecturer:
