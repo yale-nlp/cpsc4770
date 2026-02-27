@@ -246,8 +246,11 @@
   logistics: HW 3 out
 
 - date: Thu 04/02/26
-  title:
-    - "Guest Lecture 3: TBD"
+  guest:
+    - name: Orion Weller
+      profile: https://orionweller.github.io/
+      photo: https://orionweller.github.io/assets/img/avatar.jpg
+      affil: Johns Hopkins 
   readings:
   optional:
   logistics:
