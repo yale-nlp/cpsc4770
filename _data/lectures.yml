@@ -221,9 +221,14 @@
 
 - date: Tue 03/24/26
   title:
-    - "Guest Lecture 2: TBD"
+    - Post-training
+    - Reinforcement Learning
+    - REINFORCE
+    - PPO
   readings:
-  optional:
+    - Training language models to follow instructions with human feedback (Ouyang et al., 2022) <a href="https://arxiv.org/abs/2203.02155" target="_blank">[link]</a>
+    - Fine-Tuning Language Models from Human Preferences (Ziegler et al., 2019) <a href="https://arxiv.org/abs/1909.08593" target="_blank">[link]</a>
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQDdXPjW2UHdQISQjCBH8mh1AX2ibnbroDpn9tSKRDCkmcU?e=gQZo0w
   logistics:
 
 - date: Thu 03/26/26
