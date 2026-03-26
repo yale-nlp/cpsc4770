@@ -234,14 +234,13 @@
 - date: Thu 03/26/26
   title:
     - Post-training
-    - Reinforcement learning from Human Feedback
-    - Alignment
+    - PPO (cont.)
   readings:
     - Training language models to follow instructions with human feedback (Ouyang et al., 2022) <a href="https://arxiv.org/abs/2203.02155" target="_blank">[link]</a>
     - Fine-Tuning Language Models from Human Preferences (Ziegler et al., 2019) <a href="https://arxiv.org/abs/1909.08593" target="_blank">[link]</a>
-    - Direct Preference Optimization- Your Language Model is Secretly a Reward Model (Rafailov et al., 2023) <a href="https://arxiv.org/abs/2305.18290" target="_blank">[link]</a>
+    - Nathan Lambert RLHF Book
     - RLAIF- Scaling Reinforcement Learning from Human Feedback with AI Feedback (Lee et al., 2023) <a href="https://arxiv.org/abs/2309.00267" target="_blank">[link]</a>
-  optional:
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQAx0NqMxBYTTZfQjbIahL94AS_7s6fTeOD36_fR9CO2cCw?e=96WBYh
   logistics:
 
 - date: Tue 03/31/26
