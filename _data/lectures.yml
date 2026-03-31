@@ -245,9 +245,10 @@
 
 - date: Tue 03/31/26
   title:
-    - Post-training (contd...)
+    - Retrieval Augmented Generation (RAG)
   readings:
   optional:
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQA_uToRvj7tQaX2ZwirL6FuAZ6sOXVB2IvKTMULuKxq7IM?e=4DgfjL
   logistics: HW 3 out
 
 - date: Thu 04/02/26
@@ -256,8 +257,11 @@
       profile: https://orionweller.github.io/
       photo: https://orionweller.github.io/assets/img/avatar.jpg
       affil: Johns Hopkins 
-  readings:
-  optional:
+  title: Beyond Semantic Search: Prompting, Reasoning, and Instruction-Following in Retrieval
+  readings: - "Talk abstract: Just as prompting for language models has enabled complex user tasks and zero-shot optimization via prompts, so can instructions and prompts in retrieval enable complex information needs with zero-shot adaptation. In this talk, I describe efforts to move beyond semantic search by defining and measuring the instruction following ability of retrievers using real-world search instructions as well as building retrieval models that can handle complex instructions (including reasoning and prompting) just like a language model. Empirical results show that this new category of retrieval models shows remarkable promise for building systems that can retrieve information in a way that aligns with users' specific needs – moving beyond merely matching keywords/paraphrases to searching with true natural language understanding."
+  optional: 
+    - "Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models. Weller et al (2024a)"
+    - "FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions. Weller et al (2024b)"
   logistics:
 
 - date: Tue 04/07/26
