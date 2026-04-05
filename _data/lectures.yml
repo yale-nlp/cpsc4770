@@ -213,6 +213,7 @@
   readings:
     - "Talk abstract: The ever-increasing capabilities of language models call for rethinking how we build agents: moving from assistants that passively help with simple, well-defined tasks, to collaborators that proactively support users in long-form, exploratory work — and continue learning alongside them. In this talk, I will present a systematic view of what it takes to build collaborator agents, organized around three questions. First, what is the right objective for building collaborator agents, and how should we evaluate whether collaboration succeeds? Second, how do we train agents to operate in settings where goals are open-ended and evolve over time? And third, what architectural improvements to language models are needed to make collaboration practical? I will share lessons learned in our recent projects in this direction, including training deep research agents for open-ended long-form generation with evolving rubrics and enabling interleaved latent and text chain of thought for more efficient long-form reasoning in language models."
   optional:
+  slides: https://www.figma.com/deck/pGdfAoCwVEM2MImxYsjIEC/Developing-Collaborative-Agents?node-id=1-6782&viewport=-82%2C-23%2C0.43&t=nmCakX4aa9la0jyz-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
   logistics: Project proposals due 03/06
 
 - date: 03/06/26 - 03/22/26
