@@ -250,7 +250,7 @@
   readings:
   optional:
   slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQA_uToRvj7tQaX2ZwirL6FuAZ6sOXVB2IvKTMULuKxq7IM?e=4DgfjL
-  logistics: HW 3 out
+  logistics: 
 
 - date: Thu 04/02/26
   guest:
@@ -265,7 +265,7 @@
   optional: 
     - "Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models. Weller et al (2024a)"
     - "FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions. Weller et al (2024b)"
-  logistics:
+  logistics: 4/5 HW 3 out
 
 - date: Tue 04/07/26
   lecturer:
@@ -308,4 +308,4 @@
   title: Project presentations session 2
   readings:
   optional:
-  logistics: Final project presentations, HW 3 due on 4/27, <br/> Final project reports due on 4/30
+  logistics: Final project presentations, HW 3 due on 4/29, <br/> Final project reports due on 5/1
