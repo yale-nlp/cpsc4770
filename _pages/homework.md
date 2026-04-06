@@ -6,7 +6,7 @@ title: Homework Assignments
 
 All homeworks should be submitted through Gradescope.
 
-## Homework 3: Prefereance Optimization, Parameter-Efficient Fine-Tuning, and Retrieval-Augmented Generation
+## Homework 3
 
 ### Part 1: Fine-Tuning Language Models with Preference Feedback (100 points)
 
