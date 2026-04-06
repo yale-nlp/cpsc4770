@@ -45,7 +45,7 @@ Submit the completed notebook with all the output to Gradescope. See the instruc
 
 ---
 
-## Part 3: Retrieval-Augmented Generation (50 points)
+### Part 3: Retrieval-Augmented Generation (50 points)
 
 The main goal of this part is to understand and implement a Retrieval-Augmented Generation (RAG) pipeline, which enhances language model responses by retrieving relevant documents from an external knowledge base. This involves:
 
