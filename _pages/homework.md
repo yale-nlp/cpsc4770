@@ -6,6 +6,66 @@ title: Homework Assignments
 
 All homeworks should be submitted through Gradescope.
 
+# Homework 3: Prefereance Optimization, Parameter-Efficient Fine-Tuning, and Retrieval-Augmented Generation
+
+## Part 1: Direct Preference Optimization (DPO)
+
+#### Fine-Tuning Language Models with Preference Feedback (100 points)
+
+The main goal of this part is to understand and implement the Direct Preference Optimization (DPO) algorithm for aligning language models with human preferences. This involves:
+
+- Comparing a base GPT-2 model with a supervised fine-tuned (SFT) model to understand the effect of instruction tuning.
+- Understanding the data pipeline for preference-based training, including dataset classes, collators, and how chosen/rejected response pairs are handled.
+- Computing reference model log probabilities needed for the DPO loss, including masking out prompt tokens.
+- Implementing the DPO loss function based on the closed-form derivation from the original paper.
+- Implementing the DPO dataset class and collator for the training loop.
+- Fine-tuning a GPT-2 DPO model on the UltraFeedback preference dataset.
+- Evaluating and comparing SFT, instructor's DPO, and student's DPO models using ROUGE scores and pairwise comparison with PairRM.
+- Answering conceptual questions about the DPO algorithm, gradient accumulation, and evaluation methodology.
+
+You will need to log in to Colab with your **Yale account** to access the notebook.
+Then you can copy the notebook to your own account and start working on it.
+
+Please see the instructions and the notebook here: [Colab 1 (DPO)](https://colab.research.google.com/drive/1Qz5SmmoDlSS2MRQbBd_dZcB5u8OT6c3-?usp=sharing).
+
+Submit the completed notebook with all the output to Gradescope. See the instructions in the notebook for more details.
+
+---
+
+## Part 2: Implementing LoRA From Scratch
+
+#### Parameter-Efficient Fine-Tuning (70 points)
+
+The main goal of this part is to understand and implement Low-Rank Adaptation (LoRA), a parameter-efficient fine-tuning method that dramatically reduces the number of trainable parameters. This involves:
+
+- Implementing a LoRA layer from scratch, including the low-rank decomposition with matrices A and B, scaling factor, and the forward pass that combines the original weights with the low-rank update.
+- Modifying a pre-trained RoBERTa model to incorporate LoRA layers into its attention modules, while freezing the original model weights.
+- Fine-tuning the LoRA-augmented RoBERTa model on a downstream text classification task and evaluating its performance.
+- Analyzing the results: comparing the number of trainable parameters, training efficiency, and performance between LoRA fine-tuning and full fine-tuning, and discussing the effect of rank on model quality.
+
+Please see the instructions and the notebook here: [Colab 2 (LoRA)](https://colab.research.google.com/drive/1Igwm7Z35WAv-pwOESh8KKw1cdBlC0x0t?usp=sharing).
+
+Submit the completed notebook with all the output to Gradescope. See the instructions in the notebook for more details.
+
+---
+
+## Part 3: RAG and Information Retrieval
+
+#### Retrieval-Augmented Generation (50 points)
+
+The main goal of this part is to understand and implement a Retrieval-Augmented Generation (RAG) pipeline, which enhances language model responses by retrieving relevant documents from an external knowledge base. This involves:
+
+- Embedding documents using the an Embeddings model to create dense vector representations.
+- Building a retrieval index for efficient nearest-neighbor search over the embedded documents.
+- Implementing the retrieval component to find the most relevant documents for a given query.
+- Evaluating the RAG pipeline using standard information retrieval metrics.
+- Analyzing and discussing the results, including the strengths and limitations of the retrieval-augmented approach.
+
+Please see the instructions and the notebook here: [Colab 3 (RAG)](https://colab.research.google.com/drive/1RTLCNGsYWwOopfhWhkc4aqmXjgYcqlcj?usp=sharing).
+
+Submit the completed notebook with all the output to Gradescope. See the instructions in the notebook for more details.
+
+---
 
 ## Homework 2
 
