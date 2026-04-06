@@ -6,11 +6,9 @@ title: Homework Assignments
 
 All homeworks should be submitted through Gradescope.
 
-# Homework 3: Prefereance Optimization, Parameter-Efficient Fine-Tuning, and Retrieval-Augmented Generation
+## Homework 3: Prefereance Optimization, Parameter-Efficient Fine-Tuning, and Retrieval-Augmented Generation
 
-## Part 1: Direct Preference Optimization (DPO)
-
-#### Fine-Tuning Language Models with Preference Feedback (100 points)
+### Part 1: Fine-Tuning Language Models with Preference Feedback (100 points)
 
 The main goal of this part is to understand and implement the Direct Preference Optimization (DPO) algorithm for aligning language models with human preferences. This involves:
 
@@ -32,9 +30,7 @@ Submit the completed notebook with all the output to Gradescope. See the instruc
 
 ---
 
-## Part 2: Implementing LoRA From Scratch
-
-#### Parameter-Efficient Fine-Tuning (70 points)
+### Part 2: Parameter-Efficient Fine-Tuning (70 points)
 
 The main goal of this part is to understand and implement Low-Rank Adaptation (LoRA), a parameter-efficient fine-tuning method that dramatically reduces the number of trainable parameters. This involves:
 
@@ -49,9 +45,7 @@ Submit the completed notebook with all the output to Gradescope. See the instruc
 
 ---
 
-## Part 3: RAG and Information Retrieval
-
-#### Retrieval-Augmented Generation (50 points)
+## Part 3: Retrieval-Augmented Generation (50 points)
 
 The main goal of this part is to understand and implement a Retrieval-Augmented Generation (RAG) pipeline, which enhances language model responses by retrieving relevant documents from an external knowledge base. This involves:
 
