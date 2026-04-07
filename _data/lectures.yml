@@ -274,7 +274,7 @@
     - Retrieval Augmented Generation (RAG), continued
     - Post-training, contined
   readings:
-    - "Direct Preference Optimization: Your Language Model is Secretly a Reward Model" <a href="https://arxiv.org/abs/2305.18290" target="_blank">[link]</a>
+    - "Direct Preference Optimization: Your Language Model is Secretly a Reward Model" 
   optional:
   slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQBJnfhtCLzVRb0byEbKzH9mAQGPYstEV9k8ADWE-EC995I?e=AXCJsl
   logistics:
