@@ -286,8 +286,15 @@
     <strong> Midterm Exam 2 </strong>
 
 - date: Tue 04/14/26
+  guest:
+    - name: Prof. Manling Li
+      profile: https://limanling.github.io/
+      photo: https://limanling.github.io/authors/admin/avatar_hudd2cb509b9271810998b42a25e34ae22_4743348_270x270_fill_q75_lanczos_center.jpg
+      affil: Northwestern University
+  lecturer:
+    - Arman
   title:
-    - "Guest Lecture 4: TBD"
+    - "Multimodal Reasoning"
   readings:
   optional:
   logistics:
