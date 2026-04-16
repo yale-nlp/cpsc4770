@@ -301,10 +301,13 @@
 
 - date: Thu 04/16/26
   lecturer:
-  title: RAG continued, Intro to Agent-based systems
+  title: Parameter-Efficient Fine-tuning, Preference optimization (contintued)
   readings:
+    - Modular Deep Learning, Pfeiffer et al., 2023 <a href="https://arxiv.org/pdf/2302.11529v2" target="_blank">[link]</a>
+    - Direct Preference Optimization, Rafailov, et al., 2023 <a href="https://arxiv.org/abs/2305.18290" target="_blank">[link]</a>
   optional:
   logistics:
+  slides: https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/IQD41nB32BjKTLj5U3xoeKeOAfseqhjq__RKRbP0QvtLqys?e=Nj8Fb5
 
 - date: Tue 04/21/26
   lecturer:
